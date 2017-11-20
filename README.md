@@ -1,1 +1,1 @@
-# taek-lokaverk
+# Tæk Lokaverkefni
