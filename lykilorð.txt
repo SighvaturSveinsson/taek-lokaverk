@@ -1,0 +1,10 @@
+Lykilorð
+Router 1 wifi-password: password
+Router 1 admin-password: password
+Router 2 wifi-password: pass.123
+Router 2 admin-password: pass.123
+ljósleiðara router en-password: password vty password = pass.123 console password=pass.123
+VTY passwords: pass.123
+S_Fiber EXEC password: password123 admin password: admin
+R_fiber EXEC password: password123 admin password: admin en password: pass.123
+R_ISP EXEC password: password123 admin password: admin en password: pass.123
