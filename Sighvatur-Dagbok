@@ -12,3 +12,4 @@ Löguðum flest sem virkaði ekki og löguðum nokkur route
 
 Mánudagurr 4.12
 Fór yfir öll lykilorð og lagaði þau sem virkuðu ekki
+Breytti Username admin password í Username admin secret á nokkrum routerum og switchum
