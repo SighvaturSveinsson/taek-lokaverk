@@ -1,10 +1,49 @@
-Lykilorð
+LykilorÃ°:
+---------------------------------
 Router 1 wifi-password: password
 Router 1 admin-password: password
+---------------------------------
 Router 2 wifi-password: pass.123
 Router 2 admin-password: pass.123
-ljósleiðara router en-password: password vty password = pass.123 console password=pass.123
+---------------------------------
+LjÃ³sleiÃ°ara router:
+Enable-password: password
+VTY password: pass.123
+Console password: pass.123
+---------------------------------
 VTY passwords: pass.123
-S_Fiber EXEC password: password123 admin password: admin
-R_fiber EXEC password: password123 admin password: admin en password: pass.123
-R_ISP EXEC password: password123 admin password: admin en password: pass.123
+---------------------------------
+S_Fiber:
+Console password: password123
+Enable-password: password
+SSH Username: admin, password: admin
+---------------------------------
+R_fiber:
+EXEC password: password123
+Console password: password123
+Enable-password: pass.123
+SSH Username: admin, password: admin
+---------------------------------
+R_ISP:
+EXEC password: password123
+Console password: password123
+Enable-password: pass.123
+SSH Username: admin, password: admin 
+---------------------------------
+R_ADSL:
+EXEC password: password123
+Console password: password123
+Enable-password: pass.123
+SSH Username: admin, password: admin 
+---------------------------------
+S_adsl:
+EXEC password: password123
+Console password: password123
+Enable-password: pass.123
+SSH Username: admin, password: admin
+---------------------------------
+RIX:
+EXEC password: password123
+Console password: password123
+Enable-password: pass.123
+SSH Username: admin, password: admin
