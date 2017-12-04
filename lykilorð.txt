@@ -7,43 +7,43 @@ Router 2 wifi-password: pass.123
 Router 2 admin-password: pass.123
 ---------------------------------
 Ljósleiðara router:
-Enable-password: password
-VTY password: pass.123
 Console password: pass.123
----------------------------------
-VTY passwords: pass.123
+Enable password: password
+VTY password: pass.123
+SSH Username: admin, password: admin
 ---------------------------------
 S_Fiber:
 Console password: password123
-Enable-password: password
+Enable password: password
+VTY password: pass.123
 SSH Username: admin, password: admin
 ---------------------------------
 R_fiber:
-EXEC password: password123
 Console password: password123
-Enable-password: pass.123
+Enable password: pass.123
+VTY password: pass.123
 SSH Username: admin, password: admin
 ---------------------------------
 R_ISP:
-EXEC password: password123
 Console password: password123
-Enable-password: pass.123
+Enable password: pass.123
+VTY password: pass.123
 SSH Username: admin, password: admin 
 ---------------------------------
 R_ADSL:
-EXEC password: password123
 Console password: password123
-Enable-password: pass.123
+Enable password: pass.123
+VTY password: pass.123
 SSH Username: admin, password: admin 
 ---------------------------------
 S_adsl:
-EXEC password: password123
 Console password: password123
-Enable-password: pass.123
+Enable password: pass.123
+VTY password: pass.123
 SSH Username: admin, password: admin
 ---------------------------------
 RIX:
-EXEC password: password123
 Console password: password123
-Enable-password: pass.123
+Enable password: pass.123
+VTY password: pass.123
 SSH Username: admin, password: admin
