@@ -8,7 +8,7 @@ Router 2 admin-password: pass.123
 ---------------------------------
 Ljósleiðara router:
 Console password: pass.123
-Enable password: password
+Enable password: pass.123
 VTY password: pass.123
 SSH Username: admin, password: admin
 ---------------------------------
